@@ -37,8 +37,8 @@ Start with a fresh sample copy. Choose 3, then enter book 103, member 2, loan 50
 
 ## Submission version
 
-- Repository URL: [enter your hosted repository URL]
-- Branch: [enter the submitted branch]
+- Repository URL: https://github.com/azarun99/ifp_final
+- Branch: master
 - Final commit: [enter the verified submission commit in the group report and release copy of this README]
 
 Publish the source, projects, tests, sample and README to the team repository. Grant the instructor access if it is private. Record the submitted source commit and use the same version for all four Moodle uploads. Leave generated bin and obj directories and local data copies out of the submission. Confirm the course's AI permission and acknowledgement requirements before submission.
