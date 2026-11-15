@@ -1,0 +1,50 @@
+{
+  "books": [
+    {
+      "id": 101,
+      "title": "The Hobbit",
+      "category": "Fiction",
+      "copies": 2
+    },
+    {
+      "id": 102,
+      "title": "The Pragmatic Programmer",
+      "category": "Computing",
+      "copies": 1
+    },
+    {
+      "id": 103,
+      "title": "A Brief History of Time",
+      "category": "Science",
+      "copies": 1
+    }
+  ],
+  "members": [
+    {
+      "id": 1,
+      "name": "Amina",
+      "membership": "Standard"
+    },
+    {
+      "id": 2,
+      "name": "Daniyar",
+      "membership": "Extended"
+    }
+  ],
+  "loans": [
+    {
+      "id": 500,
+      "bookId": 102,
+      "memberId": 1,
+      "issuedOn": "2026-11-01",
+      "dueOn": "2026-11-08"
+    },
+    {
+      "id": 501,
+      "bookId": 101,
+      "memberId": 2,
+      "issuedOn": "2026-11-01",
+      "dueOn": "2026-11-22"
+    }
+  ]
+}
