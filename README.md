@@ -1,6 +1,6 @@
 # Library Lending
 
-A console application for a small library desk. It uses C# and .NET SDK 10.0 (verified with 10.0.403). No external packages or services are needed.
+A console application for a small library desk. It uses C# and .NET SDK 10.0 (any 10.0.x works; verified with 10.0.404). No external packages or services are needed.
 
 ## Build and run
 
@@ -39,9 +39,8 @@ Start with a fresh sample copy. Choose 3, then enter book 103, member 2, loan 50
 
 - Repository URL: https://github.com/azarun99/ifp_final
 - Branch: master
-- Final commit: [enter the verified submission commit in the group report and release copy of this README]
+- Final commit:
 
-Publish the source, projects, tests, sample and README to the team repository. Grant the instructor access if it is private. Record the submitted source commit and use the same version for all four Moodle uploads. Leave generated bin and obj directories and local data copies out of the submission. Confirm the course's AI permission and acknowledgement requirements before submission.
 
 ## Scope
 
